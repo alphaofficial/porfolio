@@ -17,7 +17,7 @@ function App() {
         <p className="leading-7">Hey there 👋, I'm a <span className="text-yellow-500"><del>shadow monarch lost in  a human world</del></span> <span>full stack engineer.</span></p>
         <p className="leading-7">🔭 I'm currently working @ <a className="underline text-blue-400 hover:text-blue-500 visited:text-purple-400" href="https://sovtech.com">Sovtech</a> and my day job involves building scaleable software using Typscript, NodeJS, React, React Native, Graphql, AWS and more.</p>
         <p className="leading-7">🚀 I'm learning to build machine learning applications and i write about them occassionally.</p>
-        <p className="leading-7">🎮 I like games, music, books, comics and  I'm fascinated by space exploration</p>
+        <p className="leading-7">🎮 I like games, music, books, comics and  I'm fascinated by physics space exploration</p>
         <p className="leading-7">💭 My dream: 
             <code className="bg-yellow-500 text-gray-900 rounded-md font-mono">
               {" while(sleeping){money++;} "}
